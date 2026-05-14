@@ -4,6 +4,8 @@ Sou Bernardo Renner, um estudante gaúcho de 17 anos engajado na conexão de boa
 
 BERNARDO MATTOS RENNER
 Gravataí, RS, Brazil  |  +55 (51) 98151-6356  |  bernardomrenner08@gmail.com
+
+
 EDUCATION
 
 Colégio Sinodal Prado Gravataí - High School Diploma 	Feb 2023 – Dec 2025
@@ -11,11 +13,15 @@ GPA: 3.93/4.0 cumulative | Dual diploma program (US curriculum) | 4.0/4.0 in US 
 Coursework in American literature, history, and politics; seminars with US historians and educators.
 Technical Degree in Software Development        	Feb 2024 – Dec 2025
 1,200-hour program: HTML5, CSS3, JavaScript, Java, PHP, MySQL, XML, Kotlin and real-world systems development.
+
+
 STANDARDIZED TESTING & LANGUAGE
 
 TOEFL Junior: 865/900 (Superior - B2)
 Cambridge C1 Advanced (CAE): scheduled December 2026
 SAT: 1430 (greater results upcoming)
+
+
 LEADERSHIP & ENTREPRENEURSHIP
 
 Founder & Project Leader - Atrián                            	Jun 2025 – Present
@@ -32,6 +38,7 @@ Executive Director of Project Development - Interact Prado Gravataí (Rotary)   
 Selected Representative - 30th Regional Youth Leadership Conference                                                                                            	Aug 2024
 Chosen as 1 of ~650 students across Rio Grande do Sul, Santa Catarina, and Paraná states.
 
+
 RESEARCH & INNOVATION
 
 Hada: Biocurative Research Project — UFRGS & Colégio Sinodal Prado                                                                                                  	Dec 2022 – Present
@@ -45,6 +52,8 @@ GSSA — Gravataí Support & Shelter Assist            	Sep 2025 – Present
 •   Built a climate crisis interactive hub using HTML, CSS, JavaScript, and Firebase - centralizing verified NGOs on a live map with real-time climate data via Open-Meteo API, classifying flood/heat/cyclone risk across 4 alert levels.
 •   NFTE World Series of Innovation: ranked Top 10 among 4,000+ global solutions and named Honorable Standout for highlighting as a real climate crisis solution.
 •   Pursuing formal integration with Gravataí Civil Defense to implement as an official municipal platform.
+
+
 PROFESSIONAL DEVELOPMENT
 
 Web Summit Lisbon                                                                           	Nov 2025
@@ -61,11 +70,15 @@ The Dev Conference - FIAP                                                       
 Selected (Python/Pandas course) to participate in Brazil's largest tech professionals conference — Microsoft, AWS, SAP, Google present.
 Caldeira Club - Colégio Sinodal Prado                    	Jan 2025 – Present
 Founded a 10-student entrepreneurship club with semester access to professional training at Instituto Caldeira.
+
+
 SPEAKING & PANELIST EXPERIENCE
 
 •   Keynote on studying abroad to 60+ students (8th and 9th grade).
 •   Lecture on prompt engineering and applied AI to 35+ adults in General Motors Industry and Automation course (1h/week Aug - Dec 2025).
 •   3-minute NASA pitch on electric furnace solution for Mars recycling to 100+ professionals.
+
+
 HONORS & AWARDS
 
 •   Candidate for Academic Laureate Honor – first in school's history (top GPA).
